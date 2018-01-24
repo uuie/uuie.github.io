@@ -3,10 +3,10 @@
   <channel>
     <title>瓶子的垃圾箱</title>
     <description></description>
-    <link>http://localhost:4000/docs/</link>
-    <atom:link href="http://localhost:4000/docs/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Jan 2018 15:42:15 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Jan 2018 15:42:15 +0800</lastBuildDate>
+    <link>http://uuie.github.io/docs/</link>
+    <atom:link href="http://uuie.github.io/docs/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 24 Jan 2018 15:49:26 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2018 15:49:26 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;腊八&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Jan 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/docs/2016/01/24/%E8%85%8A%E5%85%AB/</link>
-        <guid isPermaLink="true">http://localhost:4000/docs/2016/01/24/%E8%85%8A%E5%85%AB/</guid>
+        <link>http://uuie.github.io/docs/2016/01/24/%E8%85%8A%E5%85%AB/</link>
+        <guid isPermaLink="true">http://uuie.github.io/docs/2016/01/24/%E8%85%8A%E5%85%AB/</guid>
         
         <category>test</category>
         
