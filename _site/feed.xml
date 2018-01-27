@@ -5,9 +5,9 @@
     <description></description>
     <link>http://uuie.github.io/</link>
     <atom:link href="http://uuie.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Jan 2018 15:53:14 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Jan 2018 15:53:14 +0800</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <pubDate>Sun, 28 Jan 2018 00:26:19 +0800</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2018 00:26:19 +0800</lastBuildDate>
+    <generator>Jekyll v3.7.2</generator>
     
       <item>
         <title>Example Post</title>
@@ -16,8 +16,6 @@
         <pubDate>Sun, 24 Jan 2016 00:00:00 +0800</pubDate>
         <link>http://uuie.github.io/2016/01/24/%E8%85%8A%E5%85%AB/</link>
         <guid isPermaLink="true">http://uuie.github.io/2016/01/24/%E8%85%8A%E5%85%AB/</guid>
-        
-        <category>test</category>
         
         
       </item>
