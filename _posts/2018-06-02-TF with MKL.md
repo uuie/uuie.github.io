@@ -18,5 +18,5 @@ tags:
 
 奉上编译好的whl，macos+i7， 无cuda， 觉得cpu还有戏的拿走吧
 
-[tensorflow_mkl-1.8.0-cp36-cp36m-macosx_10_6_intel.whl]( /asstes/tensorflow_mkl-1.8.0-cp36-cp36m-macosx_10_6_intel.whl )
+[tensorflow_mkl-1.8.0-cp36-cp36m-macosx_10_6_intel.whl]( /assets/tensorflow_mkl-1.8.0-cp36-cp36m-macosx_10_6_intel.whl )
 
