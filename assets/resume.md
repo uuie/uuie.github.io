@@ -32,7 +32,7 @@
   测试环境使用了vm方案(openstack)， 将资源分配到部门，缓解集中管理的压力，提高内部资源的申请和分配速度。
 
 
-## 北京乐迪通科技有限公司 （ 2008/5 ~ 2015/6 , 公司名字和业务调整过几次）
+## 北京乐迪通科技有限公司 （ 2008/5 ~ 2015/6 , 公司名字和业务调整过几次，中途跑出去几次）
 
 ### cocos2d 项目 
 - 游戏项目ipad高清版， 之前是iphone等比拉伸，一套高清素材。使用类似android原生管理素材的方式重新设计了layout和素材加载器，重新设计部分不可重用的素材即可适配ipad。对于高分素材在ipad2上内存不足问题通过采样解码解决。原计划2人月的工作在0.5人月完成交付，同时减少了后期新需求带来的开发成本。使用c/c++/java/oc/lua进行开发。
@@ -60,28 +60,32 @@
 # 开源项目和作品
 
 ## 开源项目
- - [redraw9patch](https://github.com/uuie/redraw9patch)：根据一组.9图片重绘其他分辨率的.9图片，好多年前的做的小工具，意外收了唯一的一颗星
+ - https://github.com/uuie/redraw9patch 根据一组.9图片重绘其他分辨率的.9图片，好多年前的做的小工具，意外收了唯一的一颗星
+ - https://github.com/uuie/puppy go实现的适用于cgi服务的api gateway，目前包括服务注册和发现，负载均衡，远程调用和一个简单的register server。
+ - https://github.com/uuie/virtual-proxy  基于docker开发环境,为多个微服务做统一代理的python脚本
+ - 其他的一些碎片项目，通用性不强。
 
 ## 演讲和讲义
- - 公司内部分享：[docker for developer](https://uuie.github.io/assets/ppt/docker4developer.key)
+ - 公司内部分享：docker for developer https://uuie.github.io/assets/ppt/docker4developer.key
  - 公司内部分享：数字签名技术和应用
 
 ## 技术能力
-- 异构后端(php/java)架构和开发经验
+- 异构系统(php/java)架构和开发经验
 - android/ios/js(hybird app)/cocos engine 设计和开发经验
-- 写过且很熟悉的语言: java/php
-- 能写但是不熟的 go/python/js/c/c++/shell
+- 写过且很熟的: java/php
+- 写过但不很熟的 go/python/js/c/c++/shell
 - 用过的存储 mysql/mongodb
 - 用过的cache redis/memcache
 - 用过的通讯协议 http/tcp
 - 熟悉的操作系统 linux
+- 对数据结构，算法，jvm，设计模式等有一定研究
 
 ## 自我评价
+优秀的分析问题和解决问题能力。
 较好的学习和理解能力，基础知识扎实。
-
-项目经验丰富，技术栈较全面，有中小技术团队（20人以内）管理能力。
-
+项目经验丰富，技术栈较全面，有中小技术团队（20人以内,希望可以至少保留30%的时间用于技术的学习和实践）管理能力。
 喜欢通过工具提高工作效率。
+最近偶尔思考技术，团队和效率价值的问题。
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
