@@ -12,4 +12,4 @@ gem "bigdecimal", "~> 1.4"
 
 gem "jekyll-paginate", "~> 1.1"
 
-gem "webrick", "~> 1.4"
+gem "webrick", "~> 1.6"
